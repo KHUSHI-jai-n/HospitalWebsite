@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+}
+
+#neubar {
+    background: rgb(202, 234, 245);
+}
+
+#neubar .dropdown-menu a:hover {
+    color: black;
+    background-color: rgb(202, 234, 245);
+}
+
+#neubar .nav-item {
+    margin: auto 4px;
+}
+
+#neubar a {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+#neubar .dropdown-menu {
+    background: white;
+}
+
+
+/* font-family: 'Exo 2', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+h1 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
+    font-size: 5em;
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+}
+
+.img1 {
+    position: relative;
+    left: 53em;
+    bottom: 5em;
+}
+
+.content {
+    position: absolute;
+    font-family: 'Exo 2', sans-serif;
+    top: 70%;
+    right: 40%;
+    padding: 5%;
+    font-size: 1.1em;
+}
+
+.icon {
+    color: rgb(209, 42, 64);
+}
+
+.services {
+    background-color: rgb(202, 234, 245);
+}
+
+.p1 {
+    position: absolute;
+    top: 12em;
+    right: 35em;
+    margin-left: 1.8em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3em;
+}
+
+.p2 {
+    margin-left: 1.8em;
+    margin-right: 1.8em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+
+.thanks {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 1em;
+}
+
+.copyright {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    text-align: center;
+    margin: 0.6em;
+}
